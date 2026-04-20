@@ -8,5 +8,5 @@ This project analyzes diabetes patient readmission patterns using Python & Power
 • Created interactive Power BI dashboard
 
 ## Tools Used
-Python, Pandas, Power BI, DAX, SQL
+Python, Pandas, Power BI, DAX, SQL.
 
